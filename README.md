@@ -1,6 +1,6 @@
 # tap-game
 
-_A game for vision test of sunflower and banana_
+_A game for vision test_
 
 #### Demo
 
