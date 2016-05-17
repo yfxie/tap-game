@@ -1,6 +1,6 @@
 # tap-game
 
-_A game for vision test_
+_A game for vision test_ 🍌🌻
 
 #### Demo
 
